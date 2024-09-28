@@ -1,5 +1,8 @@
 _repo: Reuben-Sachs-a-sketch_74419
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74419-h/images/cover.jpg
 creator:
   author:
     agent_name: Levy, Amy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49112
     wikipedia: https://en.wikipedia.org/wiki/Amy_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74419#Reuben-Sachs-a-sketch
 gutenberg_issued: '2024-09-15'
 gutenberg_type: Text
 identifiers:
